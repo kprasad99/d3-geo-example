@@ -174,10 +174,7 @@ d3.json("states.topojson", function(error, ins) {
 
         // Standard enter / update 
         var pathArcs = arcGroup.selectAll(".arc")
-            .data(links);
-
-        //enter
-        pathArcs.enter()
+            .data(links).enter()
             .append("path").attr({
                 'class': 'arc'
             }).style({ 
