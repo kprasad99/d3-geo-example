@@ -15,3 +15,7 @@ http://localhost:8080/d3-geo.v3.html
 
 ```
 
+### CREDITS
+
+[Matthew McKenna](http://bl.ocks.org/mpmckenna8/e970c58310dec1965283)
+
